@@ -1,3 +1,25 @@
-<nav class="bg-slate-400 dark:bg-slate-900 text-grey-900 dark:text-grey-300 px-4">
-  this is a nav
+<nav class="flex justify-between items-center h-20 bg-slate-100 dark:bg-slate-700 text-gray-900 dark:text-gray-100 px-4">
+  <ul class="flex">
+    <li class="px-4">
+      <a href="" class="hover:text-zinc-400">
+        posts
+      </a>
+    </li>
+    <li class="px-4">
+      <a href="" class="hover:text-zinc-400">
+        contact
+      </a>
+    </li>
+  </ul>
+  <div>
+    <a href="{% url 'change-theme' %}" class="bg-grey-100 px-4 py-2 rounded-xl hover:bg-grey-300 duration-300 dark:bg-slate-600">
+      {% if is_dark_theme %}
+        <i class="fa-solid fa-sun"></i>
+      {% else %}
+        <i class="fa-solid fa-moon"></i>
+      {% endif %}
+    </a>
+    {% comment %}
+    {% endcomment %}
+  </div>
 </nav>
