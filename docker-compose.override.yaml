@@ -1,0 +1,30 @@
+version: '3'
+services:
+
+    app:
+      build: .
+      image: djang:latest
+      container_name: djang
+      environment:
+        - PYTHONUNBUFFERED=1
+      restart: always
+      command: python3 manage.py runserver 0.0.0.0:8000
+      stdin_open: true
+      tty: true
+      ports:
+        - "8057:8000"
+      volumes:
+        - .:/app
+
+    node:
+      build: 
+        context: .
+        dockerfile: ./.docker/node/Dockerfile
+      image: djang:node
+      container_name: node
+      command: npx tailwindcss -i /app/static/src/input.css -o /app/static/css/main.css --watch
+      stdin_open: true
+      tty: true
+      stop_grace_period: 0s
+      volumes:
+        - .:/app

@@ -1,0 +1,9 @@
+services:
+    app:
+      build: .
+      image: djang:latest
+      container_name: djang
+      restart: always
+      command: gunicorn --workers=3 --bind 0.0.0.0:5000 collect.wsgi:application
+      volumes:
+        - .:/app
