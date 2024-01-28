@@ -1,0 +1,87 @@
+- model: junk.course
+  pk: 1
+  fields:
+    name: bandon
+    image: uploads/courses/bandon.png
+- model: junk.course
+  pk: 2
+  fields:
+    name: pac
+    image: uploads/courses/pac.png
+- model: junk.course
+  pk: 3
+  fields:
+    name: trails
+    image: uploads/courses/trails.png
+- model: junk.course
+  pk: 4
+  fields:
+    name: oldmac
+    image: uploads/courses/oldmac.png
+- model: junk.course
+  pk: 5
+  fields:
+    name: sheep
+    image: uploads/courses/sheep.png
+- model: junk.group
+  pk: 1
+  fields:
+    name: Group Master Mayor's Cup 21st Annual
+- model: junk.group
+  pk: 2
+  fields:
+    name: Ben Stiller
+- model: junk.person
+  pk: 1
+  fields:
+    first_name: dan
+    last_name: changeme
+    notes: null
+    lat: null
+    lon: null
+    image: ''
+    group: 1
+- model: junk.person
+  pk: 2
+  fields:
+    first_name: rose
+    last_name: rows
+    notes: null
+    lat: null
+    lon: null
+    image: ''
+    group: null
+- model: junk.person
+  pk: 3
+  fields:
+    first_name: sadsad
+    last_name: touch
+    notes: null
+    lat: null
+    lon: null
+    image: ''
+    group: 1
+- model: junk.person
+  pk: 4
+  fields:
+    first_name: open
+    last_name: source
+    notes: null
+    lat: null
+    lon: null
+    image: ''
+    group: 2
+- model: junk.loop
+  pk: 1
+  fields:
+    date: 2024-01-07
+    wage: 777
+    bags: 3
+    group: 2
+- model: junk.loop
+  pk: 2
+  fields:
+    date: 2024-01-07
+    wage: 333
+    bags: 1
+    group: 1

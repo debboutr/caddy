@@ -1,0 +1,3018 @@
+- model: junk.course
+  pk: 1
+  fields:
+    name: bandon
+    image: uploads/courses/bandon.png
+- model: junk.course
+  pk: 2
+  fields:
+    name: pac
+    image: uploads/courses/pac.png
+- model: junk.course
+  pk: 3
+  fields:
+    name: trails
+    image: uploads/courses/trails.png
+- model: junk.course
+  pk: 4
+  fields:
+    name: oldmac
+    image: uploads/courses/oldmac.png
+- model: junk.course
+  pk: 5
+  fields:
+    name: sheep
+    image: uploads/courses/sheep.png
+- model: junk.group
+  pk: 1
+  fields:
+    name: unknown
+- model: junk.group
+  pk: 2
+  fields:
+    name: Bartnick
+- model: junk.group
+  pk: 3
+  fields:
+    name: Schweitzer 
+- model: junk.group
+  pk: 4
+  fields:
+    name: Callahan 
+- model: junk.group
+  pk: 5
+  fields:
+    name: reyes
+- model: junk.group
+  pk: 6
+  fields:
+    name: Hayes
+- model: junk.group
+  pk: 7
+  fields:
+    name: Worden
+- model: junk.group
+  pk: 8
+  fields:
+    name: gold
+- model: junk.group
+  pk: 9
+  fields:
+    name: Harwood
+- model: junk.group
+  pk: 10
+  fields:
+    name: Trip
+- model: junk.group
+  pk: 11
+  fields:
+    name: Prince 
+- model: junk.group
+  pk: 12
+  fields:
+    name: Hofmann
+- model: junk.group
+  pk: 13
+  fields:
+    name: changeme
+- model: junk.loop
+  pk: 1
+  fields:
+    date: 2022-01-16
+    wage: 170
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 2
+  fields:
+    date: 2022-01-21
+    wage: 290
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 3
+  fields:
+    date: 2022-01-22
+    wage: 520
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 4
+  fields:
+    date: 2022-01-29
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 5
+  fields:
+    date: 2022-01-30
+    wage: 125
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 6
+  fields:
+    date: 2022-02-11
+    wage: 140
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 7
+  fields:
+    date: 2022-02-12
+    wage: 160
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 8
+  fields:
+    date: 2022-02-13
+    wage: 220
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 9
+  fields:
+    date: 2022-03-13
+    wage: 120
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 10
+  fields:
+    date: 2022-03-14
+    wage: 120
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 11
+  fields:
+    date: 2022-03-15
+    wage: 140
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 12
+  fields:
+    date: 2022-03-16
+    wage: 150
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 13
+  fields:
+    date: 2022-03-19
+    wage: 0
+    bags: 0.0
+    group: 1
+- model: junk.loop
+  pk: 14
+  fields:
+    date: 2022-03-20
+    wage: 280
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 15
+  fields:
+    date: 2022-03-21
+    wage: 140
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 16
+  fields:
+    date: 2022-03-22
+    wage: 150
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 17
+  fields:
+    date: 2022-03-26
+    wage: 290
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 18
+  fields:
+    date: 2022-03-27
+    wage: 610
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 19
+  fields:
+    date: 2022-03-28
+    wage: 400
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 20
+  fields:
+    date: 2022-03-30
+    wage: 265
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 21
+  fields:
+    date: 2022-03-31
+    wage: 520
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 22
+  fields:
+    date: 2022-04-01
+    wage: 530
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 23
+  fields:
+    date: 2022-04-02
+    wage: 470
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 24
+  fields:
+    date: 2022-04-03
+    wage: 360
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 25
+  fields:
+    date: 2022-04-06
+    wage: 260
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 26
+  fields:
+    date: 2022-04-07
+    wage: 260
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 27
+  fields:
+    date: 2022-04-08
+    wage: 180
+    bags: 1.5
+    group: 1
+- model: junk.loop
+  pk: 28
+  fields:
+    date: 2022-04-09
+    wage: 480
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 29
+  fields:
+    date: 2022-04-10
+    wage: 480
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 30
+  fields:
+    date: 2022-04-11
+    wage: 560
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 31
+  fields:
+    date: 2022-04-14
+    wage: 340
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 32
+  fields:
+    date: 2022-04-15
+    wage: 630
+    bags: 3.5
+    group: 1
+- model: junk.loop
+  pk: 33
+  fields:
+    date: 2022-04-16
+    wage: 350
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 34
+  fields:
+    date: 2022-04-17
+    wage: 400
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 35
+  fields:
+    date: 2022-04-20
+    wage: 215
+    bags: 1.5
+    group: 1
+- model: junk.loop
+  pk: 36
+  fields:
+    date: 2022-04-21
+    wage: 510
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 37
+  fields:
+    date: 2022-04-22
+    wage: 460
+    bags: 3.5
+    group: 1
+- model: junk.loop
+  pk: 38
+  fields:
+    date: 2022-04-23
+    wage: 540
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 39
+  fields:
+    date: 2022-04-27
+    wage: 380
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 40
+  fields:
+    date: 2022-04-28
+    wage: 640
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 41
+  fields:
+    date: 2022-04-29
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 42
+  fields:
+    date: 2022-04-30
+    wage: 490
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 43
+  fields:
+    date: 2022-05-03
+    wage: 600
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 44
+  fields:
+    date: 2022-05-04
+    wage: 555
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 45
+  fields:
+    date: 2022-05-05
+    wage: 400
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 46
+  fields:
+    date: 2022-05-06
+    wage: 280
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 47
+  fields:
+    date: 2022-05-07
+    wage: 455
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 48
+  fields:
+    date: 2022-05-08
+    wage: 220
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 49
+  fields:
+    date: 2022-05-09
+    wage: 325
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 50
+  fields:
+    date: 2022-05-12
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 51
+  fields:
+    date: 2022-05-13
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 52
+  fields:
+    date: 2022-05-14
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 53
+  fields:
+    date: 2022-05-15
+    wage: 400
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 54
+  fields:
+    date: 2022-05-16
+    wage: 480
+    bags: 3.5
+    group: 1
+- model: junk.loop
+  pk: 55
+  fields:
+    date: 2022-05-17
+    wage: 530
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 56
+  fields:
+    date: 2022-05-18
+    wage: 530
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 57
+  fields:
+    date: 2022-05-19
+    wage: 230
+    bags: 1.5
+    group: 1
+- model: junk.loop
+  pk: 58
+  fields:
+    date: 2022-05-21
+    wage: 480
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 59
+  fields:
+    date: 2022-05-22
+    wage: 680
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 60
+  fields:
+    date: 2022-05-26
+    wage: 360
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 61
+  fields:
+    date: 2022-05-26
+    wage: 240
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 62
+  fields:
+    date: 2022-05-27
+    wage: 320
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 63
+  fields:
+    date: 2022-05-28
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 64
+  fields:
+    date: 2022-05-29
+    wage: 620
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 65
+  fields:
+    date: 2022-05-30
+    wage: 310
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 66
+  fields:
+    date: 2022-06-04
+    wage: 550
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 67
+  fields:
+    date: 2022-06-05
+    wage: 260
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 68
+  fields:
+    date: 2022-06-06
+    wage: 550
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 69
+  fields:
+    date: 2022-06-07
+    wage: 280
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 70
+  fields:
+    date: 2022-06-08
+    wage: 650
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 71
+  fields:
+    date: 2022-06-11
+    wage: 600
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 72
+  fields:
+    date: 2022-06-12
+    wage: 270
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 73
+  fields:
+    date: 2022-06-13
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 74
+  fields:
+    date: 2022-06-18
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 75
+  fields:
+    date: 2022-06-19
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 76
+  fields:
+    date: 2022-06-20
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 77
+  fields:
+    date: 2022-06-21
+    wage: 620
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 78
+  fields:
+    date: 2022-06-22
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 79
+  fields:
+    date: 2022-06-23
+    wage: 400
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 80
+  fields:
+    date: 2022-06-24
+    wage: 420
+    bags: 3.0
+    group: 1
+- model: junk.loop
+  pk: 81
+  fields:
+    date: 2022-06-25
+    wage: 510
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 82
+  fields:
+    date: 2022-06-26
+    wage: 250
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 83
+  fields:
+    date: 2022-06-27
+    wage: 120
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 84
+  fields:
+    date: 2022-07-01
+    wage: 220
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 85
+  fields:
+    date: 2022-07-02
+    wage: 400
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 86
+  fields:
+    date: 2022-07-03
+    wage: 620
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 87
+  fields:
+    date: 2022-07-09
+    wage: 190
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 88
+  fields:
+    date: 2022-07-10
+    wage: 500
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 89
+  fields:
+    date: 2022-07-11
+    wage: 260
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 90
+  fields:
+    date: 2022-07-12
+    wage: 260
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 91
+  fields:
+    date: 2022-07-13
+    wage: 260
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 92
+  fields:
+    date: 2022-07-14
+    wage: 270
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 93
+  fields:
+    date: 2022-07-15
+    wage: 550
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 94
+  fields:
+    date: 2022-07-16
+    wage: 250
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 95
+  fields:
+    date: 2022-07-17
+    wage: 450
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 96
+  fields:
+    date: 2022-07-18
+    wage: 250
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 97
+  fields:
+    date: 2022-07-19
+    wage: 510
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 98
+  fields:
+    date: 2022-07-20
+    wage: 290
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 99
+  fields:
+    date: 2022-07-23
+    wage: 120
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 100
+  fields:
+    date: 2022-07-24
+    wage: 120
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 101
+  fields:
+    date: 2022-07-26
+    wage: 240
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 102
+  fields:
+    date: 2022-07-27
+    wage: 480
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 103
+  fields:
+    date: 2022-07-28
+    wage: 240
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 104
+  fields:
+    date: 2022-07-29
+    wage: 540
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 105
+  fields:
+    date: 2022-07-30
+    wage: 220
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 106
+  fields:
+    date: 2022-07-31
+    wage: 530
+    bags: 3.5
+    group: 1
+- model: junk.loop
+  pk: 107
+  fields:
+    date: 2022-08-06
+    wage: 250
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 108
+  fields:
+    date: 2022-08-07
+    wage: 500
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 109
+  fields:
+    date: 2022-08-08
+    wage: 450
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 110
+  fields:
+    date: 2022-08-10
+    wage: 240
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 111
+  fields:
+    date: 2022-08-11
+    wage: 455
+    bags: 3.5
+    group: 1
+- model: junk.loop
+  pk: 112
+  fields:
+    date: 2022-08-13
+    wage: 240
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 113
+  fields:
+    date: 2022-08-14
+    wage: 250
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 114
+  fields:
+    date: 2022-08-15
+    wage: 495
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 115
+  fields:
+    date: 2022-08-16
+    wage: 250
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 116
+  fields:
+    date: 2022-08-17
+    wage: 500
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 117
+  fields:
+    date: 2022-08-18
+    wage: 290
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 118
+  fields:
+    date: 2022-08-21
+    wage: 240
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 119
+  fields:
+    date: 2022-08-22
+    wage: 490
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 120
+  fields:
+    date: 2022-08-23
+    wage: 535
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 121
+  fields:
+    date: 2022-08-24
+    wage: 230
+    bags: 1.5
+    group: 1
+- model: junk.loop
+  pk: 122
+  fields:
+    date: 2022-08-25
+    wage: 290
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 123
+  fields:
+    date: 2022-08-26
+    wage: 580
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 124
+  fields:
+    date: 2022-08-27
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 125
+  fields:
+    date: 2022-08-28
+    wage: 250
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 126
+  fields:
+    date: 2022-08-30
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 127
+  fields:
+    date: 2022-08-31
+    wage: 640
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 128
+  fields:
+    date: 2022-09-01
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 129
+  fields:
+    date: 2022-09-03
+    wage: 170
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 130
+  fields:
+    date: 2022-09-04
+    wage: 400
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 131
+  fields:
+    date: 2022-09-05
+    wage: 800
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 132
+  fields:
+    date: 2022-09-06
+    wage: 820
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 133
+  fields:
+    date: 2022-09-07
+    wage: 400
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 134
+  fields:
+    date: 2022-09-11
+    wage: 590
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 135
+  fields:
+    date: 2022-09-12
+    wage: 590
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 136
+  fields:
+    date: 2022-09-13
+    wage: 660
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 137
+  fields:
+    date: 2022-09-16
+    wage: 580
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 138
+  fields:
+    date: 2022-09-17
+    wage: 580
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 139
+  fields:
+    date: 2022-09-18
+    wage: 310
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 140
+  fields:
+    date: 2022-09-21
+    wage: 240
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 141
+  fields:
+    date: 2022-09-22
+    wage: 360
+    bags: 3.0
+    group: 1
+- model: junk.loop
+  pk: 142
+  fields:
+    date: 2022-09-23
+    wage: 180
+    bags: 1.5
+    group: 1
+- model: junk.loop
+  pk: 143
+  fields:
+    date: 2022-09-24
+    wage: 500
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 144
+  fields:
+    date: 2022-09-25
+    wage: 540
+    bags: 3.5
+    group: 1
+- model: junk.loop
+  pk: 145
+  fields:
+    date: 2022-09-26
+    wage: 260
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 146
+  fields:
+    date: 2022-09-27
+    wage: 310
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 147
+  fields:
+    date: 2022-09-28
+    wage: 600
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 148
+  fields:
+    date: 2022-10-03
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 149
+  fields:
+    date: 2022-10-04
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 150
+  fields:
+    date: 2022-10-05
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 151
+  fields:
+    date: 2022-10-06
+    wage: 345
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 152
+  fields:
+    date: 2022-10-07
+    wage: 500
+    bags: 3.5
+    group: 1
+- model: junk.loop
+  pk: 153
+  fields:
+    date: 2022-10-08
+    wage: 600
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 154
+  fields:
+    date: 2022-10-09
+    wage: 265
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 155
+  fields:
+    date: 2022-10-13
+    wage: 230
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 156
+  fields:
+    date: 2022-10-15
+    wage: 290
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 157
+  fields:
+    date: 2022-10-16
+    wage: 570
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 158
+  fields:
+    date: 2022-10-17
+    wage: 290
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 159
+  fields:
+    date: 2022-10-18
+    wage: 290
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 160
+  fields:
+    date: 2022-10-19
+    wage: 280
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 161
+  fields:
+    date: 2022-10-20
+    wage: 260
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 162
+  fields:
+    date: 2022-10-21
+    wage: 270
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 163
+  fields:
+    date: 2022-10-22
+    wage: 290
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 164
+  fields:
+    date: 2022-10-23
+    wage: 290
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 165
+  fields:
+    date: 2022-10-24
+    wage: 350
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 166
+  fields:
+    date: 2022-10-26
+    wage: 700
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 167
+  fields:
+    date: 2022-10-27
+    wage: 650
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 168
+  fields:
+    date: 2022-10-28
+    wage: 650
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 169
+  fields:
+    date: 2022-10-29
+    wage: 580
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 170
+  fields:
+    date: 2022-10-30
+    wage: 550
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 171
+  fields:
+    date: 2022-10-31
+    wage: 650
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 172
+  fields:
+    date: 2022-11-01
+    wage: 600
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 173
+  fields:
+    date: 2022-11-11
+    wage: 580
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 174
+  fields:
+    date: 2022-11-12
+    wage: 240
+    bags: 1.5
+    group: 1
+- model: junk.loop
+  pk: 175
+  fields:
+    date: 2022-11-13
+    wage: 480
+    bags: 3.0
+    group: 1
+- model: junk.loop
+  pk: 176
+  fields:
+    date: 2022-11-18
+    wage: 340
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 177
+  fields:
+    date: 2022-11-19
+    wage: 340
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 178
+  fields:
+    date: 2022-11-20
+    wage: 400
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 179
+  fields:
+    date: 2022-11-23
+    wage: 245
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 180
+  fields:
+    date: 2022-11-24
+    wage: 265
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 181
+  fields:
+    date: 2022-11-25
+    wage: 245
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 182
+  fields:
+    date: 2022-11-26
+    wage: 270
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 183
+  fields:
+    date: 2022-12-10
+    wage: 280
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 184
+  fields:
+    date: 2022-12-11
+    wage: 560
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 185
+  fields:
+    date: 2022-12-12
+    wage: 290
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 186
+  fields:
+    date: 2022-12-30
+    wage: 140
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 187
+  fields:
+    date: 2022-12-31
+    wage: 160
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 188
+  fields:
+    date: 2023-01-07
+    wage: 140
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 189
+  fields:
+    date: 2023-01-06
+    wage: 160
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 190
+  fields:
+    date: 2023-01-09
+    wage: 225
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 191
+  fields:
+    date: 2023-01-10
+    wage: 140
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 192
+  fields:
+    date: 2023-01-11
+    wage: 140
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 193
+  fields:
+    date: 2023-01-13
+    wage: 240
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 194
+  fields:
+    date: 2023-01-14
+    wage: 350
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 195
+  fields:
+    date: 2023-01-15
+    wage: 400
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 196
+  fields:
+    date: 2023-01-16
+    wage: 400
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 197
+  fields:
+    date: 2023-01-22
+    wage: 400
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 198
+  fields:
+    date: 2023-01-27
+    wage: 235
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 199
+  fields:
+    date: 2023-01-28
+    wage: 520
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 200
+  fields:
+    date: 2023-01-29
+    wage: 270
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 201
+  fields:
+    date: 2023-02-02
+    wage: 280
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 202
+  fields:
+    date: 2023-02-03
+    wage: 560
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 203
+  fields:
+    date: 2023-02-04
+    wage: 280
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 204
+  fields:
+    date: 2023-02-17
+    wage: 150
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 205
+  fields:
+    date: 2023-02-18
+    wage: 160
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 206
+  fields:
+    date: 2023-02-19
+    wage: 180
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 207
+  fields:
+    date: 2023-02-20
+    wage: 186
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 208
+  fields:
+    date: 2023-03-03
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 209
+  fields:
+    date: 2023-03-04
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 210
+  fields:
+    date: 2023-03-05
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 211
+  fields:
+    date: 2023-03-06
+    wage: 400
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 212
+  fields:
+    date: 2023-03-07
+    wage: 140
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 213
+  fields:
+    date: 2023-03-08
+    wage: 140
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 214
+  fields:
+    date: 2023-03-09
+    wage: 140
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 215
+  fields:
+    date: 2023-03-15
+    wage: 320
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 216
+  fields:
+    date: 2023-03-16
+    wage: 380
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 217
+  fields:
+    date: 2023-03-19
+    wage: 200
+    bags: 1.5
+    group: 1
+- model: junk.loop
+  pk: 218
+  fields:
+    date: 2023-03-20
+    wage: 470
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 219
+  fields:
+    date: 2023-03-21
+    wage: 150
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 220
+  fields:
+    date: 2023-03-22
+    wage: 420
+    bags: 3.0
+    group: 1
+- model: junk.loop
+  pk: 221
+  fields:
+    date: 2023-03-25
+    wage: 275
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 222
+  fields:
+    date: 2023-03-26
+    wage: 550
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 223
+  fields:
+    date: 2023-03-31
+    wage: 280
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 224
+  fields:
+    date: 2023-04-01
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 225
+  fields:
+    date: 2023-04-03
+    wage: 200
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 226
+  fields:
+    date: 2023-04-05
+    wage: 525
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 227
+  fields:
+    date: 2023-04-06
+    wage: 475
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 228
+  fields:
+    date: 2023-04-09
+    wage: 315
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 229
+  fields:
+    date: 2023-04-10
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 230
+  fields:
+    date: 2023-04-11
+    wage: 610
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 231
+  fields:
+    date: 2023-04-12
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 232
+  fields:
+    date: 2023-04-13
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 233
+  fields:
+    date: 2023-04-14
+    wage: 320
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 234
+  fields:
+    date: 2023-04-15
+    wage: 600
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 235
+  fields:
+    date: 2023-04-16
+    wage: 320
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 236
+  fields:
+    date: 2023-04-17
+    wage: 600
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 237
+  fields:
+    date: 2023-04-22
+    wage: 750
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 238
+  fields:
+    date: 2023-04-23
+    wage: 350
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 239
+  fields:
+    date: 2023-04-24
+    wage: 610
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 240
+  fields:
+    date: 2023-04-25
+    wage: 310
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 241
+  fields:
+    date: 2023-04-26
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 242
+  fields:
+    date: 2023-04-27
+    wage: 580
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 243
+  fields:
+    date: 2023-04-28
+    wage: 590
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 244
+  fields:
+    date: 2023-04-29
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 245
+  fields:
+    date: 2023-04-30
+    wage: 160
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 246
+  fields:
+    date: 2023-05-01
+    wage: 310
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 247
+  fields:
+    date: 2023-05-02
+    wage: 450
+    bags: 3.0
+    group: 1
+- model: junk.loop
+  pk: 248
+  fields:
+    date: 2023-05-06
+    wage: 220
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 249
+  fields:
+    date: 2023-05-07
+    wage: 280
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 250
+  fields:
+    date: 2023-05-15
+    wage: 250
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 251
+  fields:
+    date: 2023-05-14
+    wage: 270
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 252
+  fields:
+    date: 2023-05-16
+    wage: 550
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 253
+  fields:
+    date: 2023-05-17
+    wage: 315
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 254
+  fields:
+    date: 2023-05-18
+    wage: 350
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 255
+  fields:
+    date: 2023-05-19
+    wage: 700
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 256
+  fields:
+    date: 2023-05-20
+    wage: 370
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 257
+  fields:
+    date: 2023-05-21
+    wage: 440
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 258
+  fields:
+    date: 2023-05-22
+    wage: 495
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 259
+  fields:
+    date: 2023-05-23
+    wage: 600
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 260
+  fields:
+    date: 2023-05-24
+    wage: 620
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 261
+  fields:
+    date: 2023-05-25
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 262
+  fields:
+    date: 2023-05-26
+    wage: 250
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 263
+  fields:
+    date: 2023-05-27
+    wage: 530
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 264
+  fields:
+    date: 2023-05-28
+    wage: 550
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 265
+  fields:
+    date: 2023-05-29
+    wage: 540
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 266
+  fields:
+    date: 2023-05-30
+    wage: 280
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 267
+  fields:
+    date: 2023-05-31
+    wage: 240
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 268
+  fields:
+    date: 2023-06-01
+    wage: 525
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 269
+  fields:
+    date: 2023-06-02
+    wage: 250
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 270
+  fields:
+    date: 2023-06-03
+    wage: 245
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 271
+  fields:
+    date: 2023-06-04
+    wage: 270
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 272
+  fields:
+    date: 2023-06-08
+    wage: 560
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 273
+  fields:
+    date: 2023-06-09
+    wage: 540
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 274
+  fields:
+    date: 2023-06-10
+    wage: 570
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 275
+  fields:
+    date: 2023-06-11
+    wage: 290
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 276
+  fields:
+    date: 2023-06-12
+    wage: 530
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 277
+  fields:
+    date: 2023-06-13
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 278
+  fields:
+    date: 2023-06-14
+    wage: 500
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 279
+  fields:
+    date: 2023-06-15
+    wage: 310
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 280
+  fields:
+    date: 2023-06-18
+    wage: 510
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 281
+  fields:
+    date: 2023-06-19
+    wage: 315
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 282
+  fields:
+    date: 2023-06-20
+    wage: 500
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 283
+  fields:
+    date: 2023-06-21
+    wage: 295
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 284
+  fields:
+    date: 2023-06-22
+    wage: 645
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 285
+  fields:
+    date: 2023-06-23
+    wage: 240
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 286
+  fields:
+    date: 2023-06-24
+    wage: 540
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 287
+  fields:
+    date: 2023-06-25
+    wage: 550
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 288
+  fields:
+    date: 2023-06-26
+    wage: 550
+    bags: 3.0
+    group: 1
+- model: junk.loop
+  pk: 289
+  fields:
+    date: 2023-06-27
+    wage: 190
+    bags: 1.0
+    group: 1
+- model: junk.loop
+  pk: 290
+  fields:
+    date: 2023-06-28
+    wage: 480
+    bags: 3.0
+    group: 1
+- model: junk.loop
+  pk: 291
+  fields:
+    date: 2023-06-29
+    wage: 260
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 292
+  fields:
+    date: 2023-06-30
+    wage: 455
+    bags: 3.0
+    group: 1
+- model: junk.loop
+  pk: 293
+  fields:
+    date: 2023-07-01
+    wage: 260
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 294
+  fields:
+    date: 2023-07-02
+    wage: 550
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 295
+  fields:
+    date: 2023-07-03
+    wage: 540
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 296
+  fields:
+    date: 2023-07-04
+    wage: 560
+    bags: 3.0
+    group: 1
+- model: junk.loop
+  pk: 297
+  fields:
+    date: 2023-07-05
+    wage: 540
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 298
+  fields:
+    date: 2023-07-13
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 299
+  fields:
+    date: 2023-07-14
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 300
+  fields:
+    date: 2023-07-16
+    wage: 580
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 301
+  fields:
+    date: 2023-07-17
+    wage: 280
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 302
+  fields:
+    date: 2023-07-18
+    wage: 440
+    bags: 3.0
+    group: 1
+- model: junk.loop
+  pk: 303
+  fields:
+    date: 2023-07-19
+    wage: 350
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 304
+  fields:
+    date: 2023-07-20
+    wage: 550
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 305
+  fields:
+    date: 2023-07-22
+    wage: 600
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 306
+  fields:
+    date: 2023-07-23
+    wage: 290
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 307
+  fields:
+    date: 2023-07-24
+    wage: 570
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 308
+  fields:
+    date: 2023-07-25
+    wage: 570
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 309
+  fields:
+    date: 2023-07-30
+    wage: 400
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 310
+  fields:
+    date: 2023-07-31
+    wage: 280
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 311
+  fields:
+    date: 2023-08-01
+    wage: 580
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 312
+  fields:
+    date: 2023-08-07
+    wage: 560
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 313
+  fields:
+    date: 2023-08-09
+    wage: 580
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 314
+  fields:
+    date: 2023-08-10
+    wage: 260
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 315
+  fields:
+    date: 2023-08-11
+    wage: 250
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 316
+  fields:
+    date: 2023-08-12
+    wage: 260
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 317
+  fields:
+    date: 2023-08-13
+    wage: 200
+    bags: 1.5
+    group: 1
+- model: junk.loop
+  pk: 318
+  fields:
+    date: 2023-08-14
+    wage: 595
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 319
+  fields:
+    date: 2023-08-15
+    wage: 300
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 320
+  fields:
+    date: 2023-08-16
+    wage: 620
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 321
+  fields:
+    date: 2023-08-19
+    wage: 720
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 322
+  fields:
+    date: 2023-08-20
+    wage: 450
+    bags: 3.0
+    group: 1
+- model: junk.loop
+  pk: 323
+  fields:
+    date: 2023-08-31
+    wage: 280
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 324
+  fields:
+    date: 2023-09-01
+    wage: 520
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 325
+  fields:
+    date: 2023-09-02
+    wage: 275
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 326
+  fields:
+    date: 2023-09-04
+    wage: 280
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 327
+  fields:
+    date: 2023-09-05
+    wage: 550
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 328
+  fields:
+    date: 2023-09-06
+    wage: 340
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 329
+  fields:
+    date: 2023-09-07
+    wage: 700
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 330
+  fields:
+    date: 2023-09-08
+    wage: 340
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 331
+  fields:
+    date: 2023-09-09
+    wage: 650
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 332
+  fields:
+    date: 2023-09-10
+    wage: 700
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 333
+  fields:
+    date: 2023-09-11
+    wage: 950
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 334
+  fields:
+    date: 2023-09-14
+    wage: 310
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 335
+  fields:
+    date: 2023-09-15
+    wage: 290
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 336
+  fields:
+    date: 2023-09-16
+    wage: 655
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 337
+  fields:
+    date: 2023-09-17
+    wage: 760
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 338
+  fields:
+    date: 2023-09-18
+    wage: 400
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 339
+  fields:
+    date: 2023-09-19
+    wage: 400
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 340
+  fields:
+    date: 2023-09-20
+    wage: 400
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 341
+  fields:
+    date: 2023-09-21
+    wage: 500
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 342
+  fields:
+    date: 2023-09-22
+    wage: 500
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 343
+  fields:
+    date: 2023-09-23
+    wage: 520
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 344
+  fields:
+    date: 2023-09-26
+    wage: 525
+    bags: 3.5
+    group: 1
+- model: junk.loop
+  pk: 345
+  fields:
+    date: 2023-09-27
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 346
+  fields:
+    date: 2023-09-29
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 347
+  fields:
+    date: 2023-09-30
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 348
+  fields:
+    date: 2023-10-01
+    wage: 320
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 349
+  fields:
+    date: 2023-10-02
+    wage: 675
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 350
+  fields:
+    date: 2023-10-05
+    wage: 630
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 351
+  fields:
+    date: 2023-10-06
+    wage: 300
+    bags: 2.0
+    group: 1
+- model: junk.loop
+  pk: 352
+  fields:
+    date: 2023-10-07
+    wage: 660
+    bags: 4.0
+    group: 1
+- model: junk.loop
+  pk: 353
+  fields:
+    date: 2023-10-10
+    wage: 280
+    bags: 2.0
+    group: 2
+- model: junk.loop
+  pk: 354
+  fields:
+    date: 2023-10-12
+    wage: 540
+    bags: 4.0
+    group: 2
+- model: junk.loop
+  pk: 355
+  fields:
+    date: 2023-10-13
+    wage: 300
+    bags: 2.0
+    group: 2
+- model: junk.loop
+  pk: 356
+  fields:
+    date: 2023-10-14
+    wage: 320
+    bags: 2.0
+    group: 3
+- model: junk.loop
+  pk: 357
+  fields:
+    date: 2023-10-15
+    wage: 320
+    bags: 2.0
+    group: 3
+- model: junk.loop
+  pk: 358
+  fields:
+    date: 2023-10-16
+    wage: 300
+    bags: 2.0
+    group: 4
+- model: junk.loop
+  pk: 359
+  fields:
+    date: 2023-10-20
+    wage: 340
+    bags: 2.0
+    group: 5
+- model: junk.loop
+  pk: 360
+  fields:
+    date: 2023-10-21
+    wage: 300
+    bags: 2.0
+    group: 5
+- model: junk.loop
+  pk: 361
+  fields:
+    date: 2023-10-22
+    wage: 360
+    bags: 2.0
+    group: 5
+- model: junk.loop
+  pk: 362
+  fields:
+    date: 2023-10-24
+    wage: 290
+    bags: 2.0
+    group: 6
+- model: junk.loop
+  pk: 363
+  fields:
+    date: 2023-10-25
+    wage: 220
+    bags: 1.5
+    group: 6
+- model: junk.loop
+  pk: 364
+  fields:
+    date: 2023-10-26
+    wage: 240
+    bags: 1.5
+    group: 6
+- model: junk.loop
+  pk: 365
+  fields:
+    date: 2023-10-27
+    wage: 250
+    bags: 1.5
+    group: 6
+- model: junk.loop
+  pk: 366
+  fields:
+    date: 2023-10-29
+    wage: 360
+    bags: 2.0
+    group: 7
+- model: junk.loop
+  pk: 367
+  fields:
+    date: 2023-11-02
+    wage: 500
+    bags: 4.0
+    group: 8
+- model: junk.loop
+  pk: 368
+  fields:
+    date: 2023-11-03
+    wage: 250
+    bags: 2.0
+    group: 8
+- model: junk.loop
+  pk: 369
+  fields:
+    date: 2023-11-04
+    wage: 280
+    bags: 2.0
+    group: 8
+- model: junk.loop
+  pk: 370
+  fields:
+    date: 2023-11-05
+    wage: 280
+    bags: 2.0
+    group: 8
+- model: junk.loop
+  pk: 371
+  fields:
+    date: 2023-11-10
+    wage: 185
+    bags: 1.0
+    group: 9
+- model: junk.loop
+  pk: 372
+  fields:
+    date: 2023-11-11
+    wage: 250
+    bags: 2.0
+    group: 9
+- model: junk.loop
+  pk: 373
+  fields:
+    date: 2023-11-12
+    wage: 250
+    bags: 2.0
+    group: 9
+- model: junk.loop
+  pk: 374
+  fields:
+    date: 2023-12-01
+    wage: 240
+    bags: 2.0
+    group: 10
+- model: junk.loop
+  pk: 375
+  fields:
+    date: 2023-12-16
+    wage: 125
+    bags: 1.0
+    group: 11
+- model: junk.loop
+  pk: 376
+  fields:
+    date: 2023-12-17
+    wage: 250
+    bags: 2.0
+    group: 11
+- model: junk.loop
+  pk: 377
+  fields:
+    date: 2023-12-31
+    wage: 120
+    bags: 1.0
+    group: 12
+- model: junk.loop
+  pk: 378
+  fields:
+    date: 2024-01-01
+    wage: 120
+    bags: 1.0
+    group: 12
+- model: junk.loop
+  pk: 379
+  fields:
+    date: 2024-01-02
+    wage: 120
+    bags: 1.0
+    group: 12
+- model: junk.loop
+  pk: 380
+  fields:
+    date: 2024-01-07
+    wage: 170
+    bags: 1.0
+    group: 13
+- model: junk.person
+  pk: 1
+  fields:
+    first_name: unknown
+    last_name: soldier
+    notes: null
+    lat: null
+    lon: null
+    group: 1
+    image: null
+- model: junk.person
+  pk: 2
+  fields:
+    first_name: Matt
+    last_name: Bartnick
+    notes: 
+    lat: 42.36313443267216
+    lon: -83.08413399353023
+    group: 2
+    image: null
+- model: junk.person
+  pk: 3
+  fields:
+    first_name: Dave 
+    last_name: Bartnick 
+    notes: 
+    lat: 42.3369760610745
+    lon: -83.18892602605248
+    group: 2
+    image: null
+- model: junk.person
+  pk: 4
+  fields:
+    first_name: Jeff
+    last_name: Selasky
+    notes: 
+    lat: 42.383274404901535
+    lon: -83.11033005202879
+    group: 2
+    image: null
+- model: junk.person
+  pk: 5
+  fields:
+    first_name: Martin 
+    last_name: Peck
+    notes: 
+    lat: 42.327126203931286
+    lon: -83.10271544530089
+    group: 2
+    image: null
+- model: junk.person
+  pk: 6
+  fields:
+    first_name: Derek 
+    last_name: Schweitzer 
+    notes: 
+    lat: null
+    lon: null
+    group: 3
+    image: null
+- model: junk.person
+  pk: 7
+  fields:
+    first_name: David 
+    last_name: Given 
+    notes: 
+    lat: 47.62438860894552
+    lon: -122.31168808124688
+    group: 3
+    image: null
+- model: junk.person
+  pk: 8
+  fields:
+    first_name: Mike
+    last_name: Mikkelson
+    notes: 
+    lat: 28.54302291313208
+    lon: -81.39155269521135
+    group: 3
+    image: null
+- model: junk.person
+  pk: 9
+  fields:
+    first_name: John
+    last_name: 
+    notes: 
+    lat: 44.62745816938955
+    lon: -123.09376010499247
+    group: 3
+    image: null
+- model: junk.person
+  pk: 10
+  fields:
+    first_name: Phil
+    last_name: Callahan 
+    notes: 
+    lat: 42.11399469580208
+    lon: -87.7963343773099
+    group: 4
+    image: null
+- model: junk.person
+  pk: 11
+  fields:
+    first_name: Joe
+    last_name: Quirk
+    notes: 
+    lat: 37.80607970801275
+    lon: -122.20246039828906
+    group: 4
+    image: null
+- model: junk.person
+  pk: 12
+  fields:
+    first_name: robert
+    last_name: reyes
+    notes: 
+    lat: null
+    lon: null
+    group: 5
+    image: null
+- model: junk.person
+  pk: 13
+  fields:
+    first_name: CJ
+    last_name: 
+    notes: 
+    lat: 39.39921832790364
+    lon: -76.60129990558154
+    group: 5
+    image: null
+- model: junk.person
+  pk: 14
+  fields:
+    first_name: Robby
+    last_name: 
+    notes: 
+    lat: 47.250980024395254
+    lon: -122.44801487478215
+    group: 5
+    image: null
+- model: junk.person
+  pk: 15
+  fields:
+    first_name: Will
+    last_name: Hayes
+    notes: 
+    lat: null
+    lon: null
+    group: 6
+    image: null
+- model: junk.person
+  pk: 16
+  fields:
+    first_name: Ryan 
+    last_name: Boegh
+    notes: 
+    lat: null
+    lon: null
+    group: 6
+    image: null
+- model: junk.person
+  pk: 17
+  fields:
+    first_name: Tim
+    last_name: 
+    notes: Poker Player 4 life!
+    lat: 39.119456549038645
+    lon: -94.62401820937279
+    group: 6
+    image: null
+- model: junk.person
+  pk: 18
+  fields:
+    first_name: John
+    last_name: Worden
+    notes: Group Master National Match Play Finals
+    lat: 37.22889325005218
+    lon: -121.9776805686645
+    group: 7
+    image: null
+- model: junk.person
+  pk: 19
+  fields:
+    first_name: John
+    last_name: 
+    notes: 
+    lat: 37.86767146248696
+    lon: -122.26390740043276
+    group: 7
+    image: null
+- model: junk.person
+  pk: 20
+  fields:
+    first_name: Anthony 
+    last_name: 
+    notes: 
+    lat: 37.962335361193944
+    lon: -122.03569405772771
+    group: 7
+    image: null
+- model: junk.person
+  pk: 21
+  fields:
+    first_name: kyle
+    last_name: gold
+    notes: 
+    lat: 39.294630051853154
+    lon: -76.59529642689654
+    group: 8
+    image: null
+- model: junk.person
+  pk: 22
+  fields:
+    first_name: Eric
+    last_name: Harwood
+    notes: 
+    lat: null
+    lon: null
+    group: 9
+    image: null
+- model: junk.person
+  pk: 23
+  fields:
+    first_name: Alex
+    last_name: Hardwood 
+    notes: 
+    lat: null
+    lon: null
+    group: 9
+    image: null
+- model: junk.person
+  pk: 24
+  fields:
+    first_name: Chip
+    last_name: Trip
+    notes: these were my first two players after coming back from thanksgiving in
+      wisco!
+    lat: 33.06205395996026
+    lon: -112.08012841996296
+    group: 10
+    image: null
+- model: junk.person
+  pk: 25
+  fields:
+    first_name: Preston 
+    last_name: Prince 
+    notes: to a whiff, missed the third day!
+    lat: 37.33991599103607
+    lon: -121.90504241106366
+    group: 11
+    image: null
+- model: junk.person
+  pk: 26
+  fields:
+    first_name: Gary
+    last_name: Hofmann
+    notes: 
+    lat: 40.58172543920099
+    lon: -122.38367342115379
+    group: 12
+    image: null
+- model: junk.person
+  pk: 27
+  fields:
+    first_name: Dan
+    last_name: Matthews 
+    notes: 
+    lat: null
+    lon: null
+    group: 12
+    image: null
+- model: junk.person
+  pk: 28
+  fields:
+    first_name: dan
+    last_name: changeme
+    notes: 
+    lat: null
+    lon: null
+    group: 13
+    image: null

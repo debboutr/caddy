@@ -1,0 +1,22 @@
+<div class="flex">
+    {{ field.errors }}
+    {% for choice, name in field.field.choices %}
+      <label
+        for="id_courses_{{ choice.value }}"
+        class="m-2 p-2 my-auto rounded-full bg-blue-100 border-4
+        has-[:checked]:bg-blue-400
+        has-[:checked]:border-4
+        has-[:checked]:border-blue-600 ">
+        <input
+          id="id_courses_{{ choice.value }}"
+          type="checkbox"
+          name="courses"
+          value="{{ choice.value }}"
+          class=""
+        >
+        <img
+          class="w-4 h-4 md:w-8 md:h-8"
+          src="{{ choice.instance.image }}" alt="bandon">
+      </label>
+    {% endfor %}
+</div>
